@@ -26,5 +26,16 @@
   "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/ArzMarket_Loader.lua",
   "filename": "ArzMarket_Loader.lua",
   "type": "file"
- }
+ },
+  {
+  "id": "game-tweaker",
+  "name": "Game Tweaker",
+  "description": "Скрипт для настройки и оптимизации игры",
+  "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/GameTweaker.zip",
+  "filename": "GameTweaker.zip",
+  "type": "zip",
+  "install_to": "moonloader",
+  "requires_moonloader": true
+}
+
 ]
