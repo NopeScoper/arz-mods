@@ -37,5 +37,4 @@
   "install_to": "moonloader",
   "requires_moonloader": true
 }
-
 ]
