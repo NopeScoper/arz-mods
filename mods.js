@@ -12,5 +12,12 @@
     "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/Server%20Time%20by%20Kalashnikov.lua",
     "filename": "Server Time by Kalashnikov.lua",
     "type": "file"
-  }
+  },
+  {
+  "name": "ARZ Catcher",
+  "description": "Скрипт для ловли лавок на ЦР",
+  "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/ARZCatcher.lua",
+  "filename": "ARZCatcher.lua",
+  "type": "file"
+}
 ]
