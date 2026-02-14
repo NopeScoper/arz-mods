@@ -21,7 +21,7 @@
   "type": "file"
   },
   {
-  "name": "ArzMarket Loader",
+  "name": "ArzMarket",
   "description": "Скрипт Аризона Маркет",
   "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/ArzMarket_Loader.lua",
   "filename": "ArzMarket_Loader.lua",
