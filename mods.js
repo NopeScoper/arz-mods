@@ -19,5 +19,12 @@
   "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/ARZCatcher.lua",
   "filename": "ARZCatcher.lua",
   "type": "file"
-}
+  },
+  {
+  "name": "ArzMarket Loader",
+  "description": "Скрипт Аризона Маркет",
+  "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/ArzMarket_Loader.lua",
+  "filename": "ArzMarket_Loader.lua",
+  "type": "file"
+ }
 ]
