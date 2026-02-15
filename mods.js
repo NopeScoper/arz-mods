@@ -7,11 +7,11 @@
     "type": "zip"
   },
   {
-  "name": "Anti AFK",
-  "description": "Позволяет стоять в АФК без паузы (в оконном режиме)",
-  "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/antiafk.zip",
-  "filename": "antiafk.zip",
-  "type": "zip"
+    "name": "Anti AFK",
+    "description": "Позволяет стоять в АФК без паузы (в оконном режиме)",
+    "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/antiafk.zip",
+    "filename": "antiafk.zip",
+    "type": "zip"
   },
   {
     "name": "Server Time",
@@ -21,27 +21,27 @@
     "type": "file"
   },
   {
-  "name": "ARZ Catcher",
-  "description": "Скрипт для ловли лавок на ЦР",
-  "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/ARZCatcher.lua",
-  "filename": "ARZCatcher.lua",
-  "type": "file"
+    "name": "ARZ Catcher",
+    "description": "Скрипт для ловли лавок на ЦР",
+    "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/ARZCatcher.lua",
+    "filename": "ARZCatcher.lua",
+    "type": "file"
   },
   {
-  "name": "ArzMarket",
-  "description": "Скрипт Аризона Маркет",
-  "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/ArzMarket_Loader.lua",
-  "filename": "ArzMarket_Loader.lua",
-  "type": "file"
- },
+    "name": "ArzMarket",
+    "description": "Скрипт Аризона Маркет",
+    "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/ArzMarket_Loader.lua",
+    "filename": "ArzMarket_Loader.lua",
+    "type": "file"
+  },
   {
-  "id": "game-tweaker",
-  "name": "Game Tweaker",
-  "description": "Скрипт для настройки и оптимизации игры",
-  "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/GameTweaker.zip",
-  "filename": "GameTweaker.zip",
-  "type": "zip",
-  "install_to": "moonloader",
-  "requires_moonloader": true
-}
+    "id": "game-tweaker",
+    "name": "Game Tweaker",
+    "description": "Скрипт для настройки и оптимизации игры",
+    "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/GameTweaker.zip",
+    "filename": "GameTweaker.zip",
+    "type": "zip",
+    "install_to": "moonloader",
+    "requires_moonloader": true
+  }
 ]
