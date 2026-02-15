@@ -7,6 +7,13 @@
     "type": "zip"
   },
   {
+  "name": "Anti AFK",
+  "description": "Позволяет стоять в АФК без паузы (в оконном режиме)",
+  "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/antiafk.zip",
+  "filename": "antiafk.zip",
+  "type": "zip"
+  },
+  {
     "name": "Server Time",
     "description": "Отображает время",
     "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/Server%20Time%20by%20Kalashnikov.lua",
