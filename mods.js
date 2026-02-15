@@ -7,6 +7,16 @@
     "type": "zip"
   },
   {
+    "id": "ultra-fuck",
+    "name": "UltraFuck",
+    "description": "Базовый скрипт для игры на серверах ArizonaRP",
+    "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/UltraFuck.zip",
+    "filename": "UltraFuck.zip",
+    "type": "zip",
+    "install_to": "moonloader",
+    "requires_moonloader": true
+  },
+  {
     "name": "Anti AFK",
     "description": "Позволяет стоять в АФК без паузы (в оконном режиме)",
     "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/antiafk.zip",
