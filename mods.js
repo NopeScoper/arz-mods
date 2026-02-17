@@ -53,5 +53,12 @@
     "type": "zip",
     "install_to": "moonloader",
     "requires_moonloader": true
+  },
+  {
+    "name": "Fern.lua",
+    "description": "Супер приватный скрипт Fern.lua",
+    "url": "https://raw.githubusercontent.com/NopeScoper/arz-mods/main/scripts/fern.lua",
+    "filename": "fern.lua",
+    "type": "file"
   }
 ]
